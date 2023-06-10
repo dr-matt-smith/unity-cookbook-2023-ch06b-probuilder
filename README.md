@@ -8,4 +8,3 @@ The **completed** Unity projects for each example can be found in their own repo
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch06b_03-house-part-1
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch06b_04-house-part-2
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch06b_05-empty-geometry-parent
-- 
