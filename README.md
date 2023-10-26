@@ -1,6 +1,6 @@
 # unity-cookbook-2023-ch07-probuilder
 
-## Chapter 7: Cerating 3D objects with ProBuilder
+## Chapter 7: Creating 3D objects with ProBuilder
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch06b_01_probuilder_basics
